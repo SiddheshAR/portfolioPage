@@ -15,17 +15,17 @@ const projectsData = [
   "highlight": "This project is highlighted because of its innovative approach.",
   "skills": ["Next 14", "PostgresSql", "Drizzle", "Gemini"]
 },
-{
-  "img": HuskiWiski,
-  "title": "Huski Wiski - Ecomm Store",
-  "links": [
-    {"label": "Live Demo", "url": "https://huski-wiskii.vercel.app/"},
-    {"label": "GitHub Repository", "url": "https://github.com/SiddheshAR/HuskiWiskii"}
-  ],
-  "desc": "An e-commerce platform for pet products, providing a seamless shopping experience with its user-friendly and visually appealing interface",
-  "highlight": "This project is highlighted because of its innovative approach.",
-  "skills": ["React","Redux", "Firebase", "TailwindCss"]
-},
+// {
+//   "img": HuskiWiski,
+//   "title": "Huski Wiski - Ecomm Store",
+//   "links": [
+//     {"label": "Live Demo", "url": "https://huski-wiskii.vercel.app/"},
+//     {"label": "GitHub Repository", "url": "https://github.com/SiddheshAR/HuskiWiskii"}
+//   ],
+//   "desc": "An e-commerce platform for pet products, providing a seamless shopping experience with its user-friendly and visually appealing interface",
+//   "highlight": "This project is highlighted because of its innovative approach.",
+//   "skills": ["React","Redux", "Firebase", "TailwindCss"]
+// },
 {
   "img": InnerBalance,
   "title": "InnerBalance Landing Page",
