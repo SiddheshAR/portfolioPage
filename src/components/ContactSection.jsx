@@ -100,7 +100,7 @@ function ContactSection() {
                 </div>)})}
             </div>
             <div>
-              <button onClick={()=>submitData()} className='bg-indigo-900 text-white font-semibold py-3 px-3 rounded-md'>Send Message.</button>
+              <button onClick={()=>submitData()} className='bg-indigo-900 text-white font-semibold py-3 px-3 rounded-md'>Send Message</button>
             </div>
         </div>
     </div>
