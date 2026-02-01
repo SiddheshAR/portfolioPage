@@ -13,6 +13,7 @@ function App() {
         <div className='col-span-1 flex flex-col gap-6 top-5'>
           <AboutSection/>
           <SkillsSection/>
+          <h2>Test 2</h2>
         </div>
         <div  className='col-span-2  flex flex-col flex-wrap gap-6 '>
           <ProjectsSection/>
